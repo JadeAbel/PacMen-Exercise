@@ -6,8 +6,10 @@ You know him.
 You love him.
 Here he is, alive and roaming your screen :) .
 
-Project Title: PacMan  
+Project Title: PacMen Exercise
+
 Description: Upon clicking PacMan, he chomps across your screen from left to right. Upon hitting the right edge, he will make his way back.
+
 Usage: FUN
 
 HOW TO RUN: Open the index.html file on your browser. You may need to clone this repository to your machine.
