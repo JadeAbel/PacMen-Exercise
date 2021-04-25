@@ -10,7 +10,7 @@ Project Title: PacMan
 Description: Upon clicking PacMan, he chomps across your screen from left to right. Upon hitting the right edge, he will make his way back.
 Usage: FUN
 
-HOW TO RUN: Open the index.html file on your browser.
+HOW TO RUN: Open the index.html file on your browser. You may need to clone this repository to your machine.
 
 Support: Email jade.marie.abel@gmail.com
 Roadmap: In the future, PacMan might get chased by ghosts. He may also change colors.
