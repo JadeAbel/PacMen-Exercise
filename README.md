@@ -15,7 +15,9 @@ Usage: FUN
 HOW TO RUN: Open the index.html file on your browser. You may need to clone this repository to your machine.
 
 Support: Email jade.marie.abel@gmail.com
+
 Roadmap: In the future, PacMan might get chased by ghosts. He may also change colors.
+
 License information:
 MIT License
 
